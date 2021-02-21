@@ -2,7 +2,7 @@
 
 ## Contributing
 
-You can contribute to this site by submitting pull request. :)
+You can contribute to our repository by submitting pull request. :)
 
 ## License
 
