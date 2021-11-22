@@ -7,9 +7,8 @@ You can contribute to our repository by submitting pull request. :)
 ## License
 
 Source code is available under [MIT License](./License.md).
-
-- 😄 &mdash; My open source profile. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=mygetzu&show_icons=true)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mygetzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+My open source profile. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=mygetzu&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mygetzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
