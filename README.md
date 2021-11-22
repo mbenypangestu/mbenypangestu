@@ -22,7 +22,7 @@ My open source profile. <br> ![github stats](https://github-readme-stats.vercel.
 
 ### Languages and Tools:
 
-<img align="left" alt="Golang" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonape.com%2Fgolang-gopher-logo-icon-svg-png.html&psig=AOvVaw1a1PLmFILamocZAy8FOYue&ust=1637664865765000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiYppnnq_QCFQAAAAAdAAAAABAq" />
+<img align="left" alt="Golang" width="26px" src="https://w7.pngwing.com/pngs/126/472/png-transparent-go-redis-computer-programming-programming-language-green-threads-%E9%87%91%E8%9E%8D-computer-programming-programming-language-c.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
