@@ -7,16 +7,16 @@ You can contribute to our repository by submitting pull request. :)
 ## License
 
 Source code is available under [MIT License](./License.md).
-My open source profile. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=mygetzu&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mygetzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+My open source profile. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=mbenypangestu&show_icons=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbenypangestu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
 
-[<img align="left" alt="mygetzu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mygetzu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="mygetzu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mygetzu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mbenypangestu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mbenypangestu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="mbenypangestu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mbenypangestu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -32,13 +32,13 @@ My open source profile. <br> ![github stats](https://github-readme-stats.vercel.
 <br />
 <br />
 
-[website]: mygetzu.github.io
+[website]: mbenypangestu.github.io
 [email]: mailto:mbenypangestu@gmail.com
 [linkedin]: https://linkedin.com/in/mbenypangestu
-[instagram]: https://instagram.com/mygetzu
+[instagram]: https://instagram.com/mbenypangestu
 
 <!--
-**mygetzu/mygetzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mbenypangestu/mbenypangestu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
